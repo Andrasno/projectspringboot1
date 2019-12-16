@@ -25,7 +25,6 @@ public class User implements Serializable {
 	public User() {
 		
 	}
-
 	
 
 	public User(Integer id, String name, String email, String phone, String password) {
